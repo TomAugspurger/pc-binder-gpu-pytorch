@@ -1,4 +1,4 @@
-# pc-default-binder
+# pc-binder-gpu-pytorch
 
 This branch is a binder-compatible repository for the `gpu-pytorch` container from [planetary-computer-containers](https://github.com/microsoft/planetary-computer-containers).
 
